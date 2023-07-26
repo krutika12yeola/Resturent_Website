@@ -1,1 +1,2 @@
-# Resturent_Website
+This is Resturent_Website...
+Customer can order food.Bill will generate.They wll see different food items and their rates.
